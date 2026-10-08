@@ -2,10 +2,12 @@
 
 ## 👨🏾‍💻 Victor Buris 
 
-***Muito prazer! Meu nome é Victor Buris tenho 26 anos sou natural do Rio de Janeiro. Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio de Niterói.
-Estou sempre aberto a novos aprendizados e bons feedbacks.(PT-BR)***
+**`Future Developer`**
 
-***Nice to meet you! My name is Victor Buris, I'm 26 years old and I'm from Rio de Janeiro. I'm currently studying Systems Analysis and Development at Estácio de Niterói. I'm always open to new learning experiences and positive feedback.(EN-US)***
+**Muito prazer! Meu nome é Victor Buris tenho 26 anos sou natural do Rio de Janeiro. Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio de Niterói.
+Estou sempre aberto a novos aprendizados e bons feedbacks.(PT-BR)**
+
+**Nice to meet you! My name is Victor Buris, I'm 26 years old and I'm from Rio de Janeiro. I'm currently studying Systems Analysis and Development at Estácio de Niterói. I'm always open to new learning experiences and positive feedback.(EN-US)**
 
 <p align="left">
     <a href="https://www.linkedin.com/in/victor-buris-47158b28a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpZj%2FYfS8QCCjrk4K1NGl7A%3D%3D">
