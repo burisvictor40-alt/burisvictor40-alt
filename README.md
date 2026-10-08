@@ -3,7 +3,9 @@
 ## 👨🏾‍💻 Victor Buris 
 
 ***Muito prazer! Meu nome é Victor Buris tenho 26 anos sou natural do Rio de Janeiro. Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio de Niterói.
-Estou sempre aberto a novos aprendizados e bons feedbacks.***
+Estou sempre aberto a novos aprendizados e bons feedbacks.(PT-BR)***
+
+***Nice to meet you! My name is Victor Buris, I'm 26 years old and I'm from Rio de Janeiro. I'm currently studying Systems Analysis and Development at Estácio de Niterói. I'm always open to new learning experiences and positive feedback.(EN-US)***
 
 <p align="left">
     <a href="https://www.linkedin.com/in/victor-buris-47158b28a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpZj%2FYfS8QCCjrk4K1NGl7A%3D%3D">
@@ -34,8 +36,8 @@ Estou sempre aberto a novos aprendizados e bons feedbacks.***
   </g>
 
   <!-- Badge Text Content -->
-  <text x="110" y="52" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF">Perfil no LinkedIn</text>
-  <text x="110" y="76" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#E0F0FF">Conecte-se</text>
+  <text x="110" y="52" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF">My perfil |</text>
+  <text x="110" y="76" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#E0F0FF">Connect with me my on Linkedin</text>
   
   <!-- External Link Arrow -->
   <g transform="translate(335, 48)" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
@@ -45,7 +47,7 @@ Estou sempre aberto a novos aprendizados e bons feedbacks.***
 </svg>
 
 
-## Tecnologias e Linguagens
+## Technologies and Languages
 
 <img
   align="left" 
@@ -91,5 +93,12 @@ Estou sempre aberto a novos aprendizados e bons feedbacks.***
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
+<br>
+##
+ # Currently Studying
+ 
+>Currently studying React Native.
 
-  
+>Here are some steps to obtaining my AWS Cloud Practitioner certification.
+
+>Big data topics in Python.
